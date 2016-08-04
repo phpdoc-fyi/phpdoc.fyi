@@ -1,0 +1,17 @@
+{
+    "name": "phpdoc-fyi/phpdoc.fyi",
+    "description": "phpdoc.fyi - All Documentation For All PHP Packages",
+    "license": "AGPL-3.0",
+    "homepage": "https://phpdoc.fyi",
+    "authors": [
+        {
+            "name": "Jacob Kiers",
+            "email": "jacob@jacobkiers.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\PhpDocFyi\\": "src/"
+        }
+    }
+}
